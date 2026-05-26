@@ -1,0 +1,75 @@
+{
+  "books": [
+    {
+      "title": "Clean Codfs",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "year": 2023,
+      "id": "550e8400-e29b-41d4-a716-446655440000"
+    },
+    {
+      "id": "7d444840-9dc0-11d1-b245-5ffdce74fad2",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "publication_year": 2016
+    },
+    {
+      "id": "e902893a-9d22-3c7e-a7b8-d6e313b71d9f",
+      "title": "Hello",
+      "author": "sdfsa",
+      "genre": "Biography",
+      "year": 2021
+    },
+    {
+      "id": "21ec2020-3aea-4069-a2dd-08002b30309d",
+      "title": "dfs",
+      "author": "sdfs",
+      "genre": "Biography",
+      "year": 2012
+    },
+    {
+      "id": "9b2c8f4e-5a6d-4f7f-8a2b-3c1d5e6f7a8b",
+      "title": "sdsf",
+      "author": "sdfs",
+      "genre": "Biography",
+      "year": 2012
+    },
+    {
+      "id": "a987fbc9-4bed-3078-cf07-9141ba07c9f3",
+      "title": "sdsf",
+      "author": "sdfs",
+      "genre": "Biography",
+      "year": 2012
+    },
+    {
+      "id": "45c48cce-2e2d-7fbdea1afc51c7c6ad26",
+      "title": "gjhgj",
+      "author": "jhgj",
+      "genre": "Biography",
+      "year": 2012
+    },
+    {
+      "id": "6512bd43-d9caa6e02c990b0a82652dca",
+      "title": "hkkjk",
+      "author": "hgj",
+      "genre": "Technology",
+      "year": 2012
+    },
+    {
+      "title": "sdfs",
+      "author": "sdf",
+      "genre": "Mystery",
+      "year": 3212,
+      "id": "9xNVnhlvq1c"
+    },
+    {
+      "title": "adas",
+      "author": "sdfsa",
+      "genre": "Mystery",
+      "year": 2012,
+      "id": "HFVYMyNvE9Y"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
